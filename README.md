@@ -136,6 +136,6 @@ This setup guide should cover the essential steps for installing Android Studio,
 ---
 ### **7. Results**
 
-<img src="Images/child_calculatot_interface.jpeg" alt="Example Image" width="250" height="400"> .  .  .  . <img src="Images/Child_login.jpeg" alt="Example Image" width="200" height="300"> <br><p>Child App Interface                                                      Child login page                    <p><br><br> <img src="Images/Parent_Register.jpeg" alt="Example Image" width="200" height="300"><br><br><img src="Images/callogs.jpeg" alt="Example Image" width="200" height="300"> . . . <img src="Images/Childs_location.jpeg" alt="Example Image" width="200" height="300">
+<img src="Images/child_calculatot_interface.jpeg" alt="Example Image" width="200" height="320"> .  .  .  . <img src="Images/Child_login.jpeg" alt="Example Image" width="200" height="320"> <br><p>Child App Interface _ _ _ _ _ Child login page                    <p><br><br> <img src="Images/Parent_Register.jpeg" alt="Example Image" width="200" height="300"><br><br><img src="Images/callogs.jpeg" alt="Example Image" width="200" height="300"> . . . <img src="Images/Childs_location.jpeg" alt="Example Image" width="200" height="300">
 
 
