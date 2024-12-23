@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#f7f7f7">
+
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:typeface="serif"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:text="LOGIN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <TableLayout
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <!--Mobile Number-->
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:textColorHint="@android:color/black"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content">
+                    <EditText
+                        android:layout_marginTop="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:hint="Mobile Number"
+                        android:ems="10"
+                        android:id="@+id/loginUserName" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+        <!--Password-->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:textColorHint="@android:color/black"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
+                    android:hint="Password"
+                    android:ems="10"
+                    android:id="@+id/loginPassword" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dp">
+            <Button
+                android:id="@+id/loginButton"
+                android:textColor="@android:color/white"
+                android:background="@color/colorAccent"
+                android:layout_weight="1"
+                android:text="Sign In"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:id="@+id/signUp"
+                android:textColor="@android:color/white"
+                android:background="@color/colorAccent"
+                android:layout_weight="1"
+                android:text="Sign Up"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+
+
+        </TableRow>
+
+    </TableLayout>
+
+
+</RelativeLayout>

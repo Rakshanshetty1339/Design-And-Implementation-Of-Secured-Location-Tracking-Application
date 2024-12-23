@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChildCalculator.iml" filepath="$PROJECT_DIR$/ChildCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChildCalculator.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChildCalculator.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChildCalculator.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChildCalculator.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChildCalculator.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChildCalculator.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChildCalculator.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChildCalculator.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

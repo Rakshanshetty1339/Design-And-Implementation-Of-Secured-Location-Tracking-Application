@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#3d3d3d"
+    >
+
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:typeface="serif"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:text="LOGIN"
+        android:textColor="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <TableLayout
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <!--Mobile Number-->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.design.widget.TextInputLayout
+                android:textColorHint="@android:color/black"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:textColor="@android:color/white"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPersonName"
+                    android:hint="User Name"
+                    android:ems="10"
+                    android:id="@+id/loginUserName" />
+
+            </android.support.design.widget.TextInputLayout>
+        </TableRow>
+
+        <!--Password-->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.design.widget.TextInputLayout
+                android:textColorHint="@android:color/black"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:textColor="@android:color/white"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
+                    android:hint="Password"
+                    android:ems="10"
+                    android:id="@+id/loginPassword" />
+
+            </android.support.design.widget.TextInputLayout>
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dp">
+            <Button
+                android:id="@+id/loginButton"
+                android:textColor="@android:color/white"
+                android:background="@color/colorAccent"
+                android:layout_weight="1"
+                android:text="Sign In"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+
+        </TableRow>
+
+    </TableLayout>
+
+
+</RelativeLayout>
