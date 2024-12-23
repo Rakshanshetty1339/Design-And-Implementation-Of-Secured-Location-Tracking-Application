@@ -136,6 +136,19 @@ This setup guide should cover the essential steps for installing Android Studio,
 ---
 ### **7. Results**
 
-<img src="Images/Child_login.jpeg" alt="Example Image" width="200" height="320"> .  .  .  . <img src="Images/child_calculatot_interface.jpeg" alt="Example Image" width="200" height="320"> <br><p> _ _ Child App Interface _ _ _ _ _ Child login page _  _ <p><br> <img src="Images/Parent_Register.jpeg" alt="Example Image" width="200" height="300"><br><br><img src="Images/callogs.jpeg" alt="Example Image" width="200" height="300"> . . . <img src="Images/Childs_location.jpeg" alt="Example Image" width="200" height="300">
-
-
+<figure><img src="Images/Child_login.jpeg" alt="Example Image" width="200" height="320"><figcaption>Child Login Page</figcaption></figure> .  .  .  <figure><img src="Images/child_calculatot_interface.jpeg" alt="Example Image" width="200" height="320"><figcaption>Child App Interface</figcaption></figure>
+<br>
+<br> 
+<figure><img src="Images/Parent_Register.jpeg" alt="Example Image" width="200" height="300"><figcaption>Parent Register</figcaption></figure> .  .  . 
+<figure><img src="Images/child_adding.jpg" alt="Example Image" width="200" height="300"> "><figcaption>Parent Adding Child details</figcaption></figure>
+<br>
+<br>
+<figure><img src="Images/callogs.jpeg" alt="Example Image" width="200" height="300"> "><figcaption>Child Call Logs</figcaption></figure> .  .  . 
+<figure><img src="Images/child- contacts.jpg" alt="Example Image" width="200" height="300"> "><figcaption>Child Contacts</figcaption></figure> .  .  .
+<br>
+<br>
+<figure><img src="Images/Childs_location.jpeg" alt="Example Image" width="200" height="300"><figcaption>Child Location</figcaption></figure> .  .  . 
+<figure><img src="Images/child- messages.jpg" alt="Example Image" width="200" height="300"><figcaption>Child Inbox Messages/figcaption></figure> .  .  . 
+<br>
+<br>
+<figure><img src="Images/Project_Expo _Pic.jpeg" alt="Example Image" width="300" height="400"><figcaption>Project Expo</figcaption></figure>
