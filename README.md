@@ -3,15 +3,8 @@ Location Tracking Android Application
 
 
 
-
-Here’s a brief description you can use for your project’s README in your GitHub repository:
-
----
-
-## **Child Location Tracking System**
-
 ### **Overview**
-The **Child Location Tracking System** is a powerful and user-friendly application designed to ensure the safety and security of children by enabling real-time location tracking and activity monitoring. The system features two integrated modules: a **Parent Module** and a **Child Module**, providing seamless communication and oversight.
+The **Design-And-Implementation-Of-Secured-Location-Tracking-Application** is a powerful and user-friendly application designed to ensure the safety and security of children by enabling real-time location tracking and activity monitoring. The system features two integrated modules: a **Parent Module** and a **Child Module**, providing seamless communication and oversight.
 
 ---
 
