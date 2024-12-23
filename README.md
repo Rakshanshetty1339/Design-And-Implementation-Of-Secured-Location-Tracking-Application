@@ -134,8 +134,8 @@ Make sure your app has permissions to access the internet and location services.
 This setup guide should cover the essential steps for installing Android Studio, configuring MS SQL Server, and running your **Child Location Tracking** app with a backend API.
 
 ---
-**7. **Results**
+### **7. Results**
 
-<img src="Images/child_calculatot_interface.jpeg" alt="Example Image" width="200" height="300">     <img src="Images/Child_login.jpeg" alt="Example Image" width="200" height="300">     <img src="Images/Parent_Register.jpeg" alt="Example Image" width="200" height="300">    <img src="Images/callogs.jpeg" alt="Example Image" width="200" height="300">      <img src="Images/Childs_location.jpeg" alt="Example Image" width="200" height="300">
+<img src="Images/child_calculatot_interface.jpeg" alt="Example Image" width="200" height="300"> . . . <img src="Images/Child_login.jpeg" alt="Example Image" width="200" height="300"> . . . <img src="Images/Parent_Register.jpeg" alt="Example Image" width="200" height="300"><br><br><img src="Images/callogs.jpeg" alt="Example Image" width="200" height="300"> . . . <img src="Images/Childs_location.jpeg" alt="Example Image" width="200" height="300">
 
 
