@@ -142,7 +142,7 @@ This setup guide should cover the essential steps for installing Android Studio,
 <br>
 <br> 
 #### **b. Parent App Interfaces**
-<img src="Images/Parent_Register.jpeg" alt="Example Image" width="200" height="300"> .  .  . 
+<img src="Images/Parent_Register.jpeg" alt="Example Image" width="200" height="320"> .  .  . 
 <img src="Images/child_adding.jpg" alt="Example Image" width="200" height="320">
 <br>
 <br>
