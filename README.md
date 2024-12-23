@@ -135,3 +135,5 @@ This setup guide should cover the essential steps for installing Android Studio,
 
 
 ![Child Interface](Images/child_calculatot_interface.jpeg){ width=100px }
+<img src="Images/child_calculatot_interface.jpeg" alt="Example Image" width="400" height="300">
+
