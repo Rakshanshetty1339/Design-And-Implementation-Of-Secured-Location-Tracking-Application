@@ -99,8 +99,6 @@ Ensure all required Android dependencies are installed and up to date:
 1. **Sync Gradle**:
    In Android Studio, click **Sync Now** (if prompted) or go to **File > Sync Project with Gradle Files** to download and set up dependencies from the `build.gradle` files.
 
-   ```
-
 #### **C. Set Up Network Calls to the Backend API**
 Use **Retrofit** to send requests from the Android app to the backend API.
 
