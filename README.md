@@ -145,7 +145,6 @@ This setup guide should cover the essential steps for installing Android Studio,
 <br>
 <br>
 #### **c. Child Tracking**
-<img src="Images/callogs.jpeg" alt="Example Image" width="200" height="320"> .  .  . 
 <br>
 <br>
 <img src="Images/Childs_location.jpeg" alt="Example Image" width="200" height="320"> .  .  . 
